@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">"Movies-JetPackCompose"</string>
+    <string name="enable_dark_theme">"Enable Dark Theme: "</string>
+    <string name="description">"Movie Poster Image"</string>
+    <string name="release_date">"Release Date: "</string>
+    <string name="original_language">"Original Language: "</string>
+    <string name="rating">"Rating: "</string>
+    <string name="overview">"Overview:\n"</string>
+</resources>
